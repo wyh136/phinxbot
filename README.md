@@ -1,0 +1,2 @@
+# phinxbot
+a translate bot
